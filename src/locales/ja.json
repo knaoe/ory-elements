@@ -157,7 +157,7 @@
   "settings.navigation-profile": "プロファイル",
   "settings.navigation-totp": "認証アプリ",
   "settings.navigation-webauthn": "ハードウェアトークン",
-  "settings.subtitle-instructions": "",
+  "settings.subtitle-instructions": "　",
   "settings.title": "アカウント設定",
   "settings.title-lookup-secret": "2FAバックアップ復旧コードを管理",
   "settings.title-navigation": "アカウント設定",
