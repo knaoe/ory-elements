@@ -75,7 +75,7 @@
   "identities.messages.4000002": "プロパティ {property} がありません。",
   "identities.messages.4000003": "長さは {min_length} 以上である必要がありますが、実際の長さは {actual_length} です。",
   "identities.messages.4000004": "パターン \"{pattern}\" と一致しません",
-  "identities.messages.4000005": "パスワードは {reason} のため使用できません。",
+  "identities.messages.4000005": "こちらのパスワードは使えません。8文字以上で推測されにくいパスワードを設定してください。",
   "identities.messages.4000006": "提供されたログイン情報は無効です。パスワードやユーザー名、メールアドレス、電話番号のスペルミスを確認してください。",
   "identities.messages.4000007": "同じ識別子（メール、電話、ユーザー名...）を持つアカウントが既に存在します。",
   "identities.messages.4000008": "提供された認証コードは無効です。もう一度お試しください。",
