@@ -101,7 +101,7 @@
   "identities.messages.4000028": "{credential_identifier_hint} でログインしようとしましたが、それは別のアカウントですでに使用されています。{available_credential_types_list} を使用してログインできます。以下のソーシャルログインプロバイダのいずれかを使用してログインできます: {Available_oidc_providers_list}。",
   "identities.messages.4000029": "定数 {expected} と等しくなければなりません。",
   "identities.messages.4000030": "定数の一致に失敗しました。",
-  "identities.messages.4000031": "IDに似すぎているため、パスワードは使用できません。",
+  "identities.messages.4000031": "IDに似すぎているため、入力されたパスワードは使用できません。",
   "identities.messages.4000032": "パスワードは少なくとも {min_length} 文字である必要があります。入力されたパスワードは {actual_length} 文字でした。",
   "identities.messages.4000033": "パスワードは最大 {max_length} 文字である必要があります。入力されたパスワードは {actual_length} 文字でした。",
   "identities.messages.4000034": "パスワードはデータ侵害で発見されたため、これ以上使用することはできません。",
