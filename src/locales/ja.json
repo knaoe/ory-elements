@@ -52,7 +52,7 @@
   "identities.messages.1050016": "この方法を無効にする",
   "identities.messages.1050017": "これはあなたの認証アプリの秘密です。QRコードをスキャンできない場合に使用してください。",
   "identities.messages.1050018": "セキュリティキー「{display_name}」を削除",
-  "identities.messages.1060001": "アカウントのログインに成功しました。次の{privileged_session_expires_at_unix_until_minutes}分以内にパスワードを変更してください。",
+  "identities.messages.1060001": "アカウントにログインしました。{privileged_session_expires_at_unix_until_minutes}分以内にパスワードを変更してください。",
   "identities.messages.1060002": "パスワードリセットリンクが記載されたメールを、入力されたメールアドレス宛に送信しました。メールが届かない場合は、アドレスの綴りを確認し、登録時に使用したアドレスを使用していることを確認してください。",
   "identities.messages.1060003": "パスワードリセットコードが記載されたメールを、入力されたメールアドレス宛に送信しました。メールが届かない場合は、アドレスの綴りを確認し、登録時に使用したアドレスを使用していることを確認してください。",
   "identities.messages.1070001": "パスワード",
