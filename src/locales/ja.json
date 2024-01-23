@@ -131,7 +131,7 @@
   "identities.messages.4070006": "確認コードが無効、または既に使用されています。もう一度お試しください。",
   "identities.messages.5000001": "{reason}",
   "login.forgot-password": "パスワードを忘れましたか？",
-  "login.logged-in-as-label": "ログイン中のユーザー:",
+  "login.logged-in-as-label": "ボケてID",
   "login.logout-button": "ログアウト",
   "login.logout-label": "何か問題がありますか？",
   "login.registration-button": "新規登録",

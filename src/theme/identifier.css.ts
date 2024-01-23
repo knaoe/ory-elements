@@ -9,9 +9,10 @@ export const identifierStyle = style({
   display: "flex",
   flexFlow: "column",
   alignItems: "center",
-  margin: "1rem",
-  marginBottom: 0,
-  padding: "0.5rem",
+  // Bokete custom
+  // margin: "1rem",
+  // marginBottom: 0,
+  // padding: "0.5rem",
 })
 
 export const identifierNameStyle = style({

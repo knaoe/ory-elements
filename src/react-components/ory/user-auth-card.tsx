@@ -445,6 +445,7 @@ export const UserAuthCard = ({
         {$flow && !isTwoFactor() && (
           <>
             <Divider />
+            {showLoggedAccount && <LoggedInInfo flow={flow} />}
             <UserAuthForm
               flow={flow}
               submitOnEnter={true}
@@ -452,12 +453,12 @@ export const UserAuthCard = ({
               data-testid={`${flowType}-flow`}
             >
               {$flow}
-              {showLoggedAccount && <LoggedInInfo flow={flow} />}
             </UserAuthForm>
           </>
         )}
         {isTwoFactor() && (
           <>
+            {showLoggedAccount && <LoggedInInfo flow={flow} />}
             <NodeMessages
               nodes={filterNodesByGroups({
                 nodes: flow.ui.nodes,
@@ -465,7 +466,6 @@ export const UserAuthCard = ({
               })}
             />
             {twoFactorFlows()}
-            {showLoggedAccount && <LoggedInInfo flow={flow} />}
           </>
         )}
 

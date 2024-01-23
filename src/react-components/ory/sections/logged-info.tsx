@@ -22,10 +22,11 @@ export const LoggedInInfo = ({ flow }: IdentifierInfoProps) => {
 
   return (
     <div className={identifierStyle}>
-      <FormattedMessage
+      {/* Bokete custom */}
+      {/* <FormattedMessage
         id="login.logged-in-as-label"
         defaultMessage="You're logged in as:"
-      />
+      /> */}
       <div className={identifierNameStyle}>{identifier.value}</div>
     </div>
   )
