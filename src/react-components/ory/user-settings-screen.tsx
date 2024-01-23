@@ -136,12 +136,13 @@ const body = ({
           defaultMessage="Account Settings"
         />
       </Typography>
-      <Typography color="foregroundMuted" size="small">
+      {/* Bokete custom */}
+      {/* <Typography color="foregroundMuted" size="small">
         <FormattedMessage
           id="settings.subtitle-instructions"
           defaultMessage="Here you can manage settings related to your account. Keep in mind that certain actions require you to re-authenticate."
         />
-      </Typography>
+      </Typography> */}
       <NodeMessages uiMessages={flow.ui.messages} textPosition="start" />
       <Divider fullWidth={false} className={dividerClassName} />
     </div>
