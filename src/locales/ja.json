@@ -8,7 +8,7 @@
   "consent.requested-permissions-label": "アプリケーションは次の権限へのアクセスを要求しています：",
   "consent.terms-of-service-label": "利用規約",
   "error.back-button": "戻る",
-  "error.description": "以下のメッセージでエラーが発生しました：",
+  "error.description": "認証の途中でエラーが発生しました。",
   "error.support-email-link": "問題が解決しない場合は、<a>{contactSupportEmail}</a>までご連絡ください",
   "error.title": "エラーが発生しました",
   "error.title-internal-server-error": "内部サーバーエラー",
